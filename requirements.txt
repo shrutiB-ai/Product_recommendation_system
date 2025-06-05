@@ -1,0 +1,11 @@
+
+pandas
+numpy
+scikit-learn
+thefuzz
+matplotlib
+seaborn
+pyyaml
+surprise
+nltk
+spacy

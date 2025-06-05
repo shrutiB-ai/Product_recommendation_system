@@ -1,0 +1,5 @@
+data:
+    books_csv: "C:\\Users\\Shruti.Bhosale\\source\\repos\\shrutiB-ai\\Product_recommendation_system\\Content_based_rec\\data\\Books.csv"    
+    
+recommendation:
+    top_n: 10
