@@ -2,10 +2,11 @@
 pandas
 numpy
 scikit-learn
-thefuzz
 matplotlib
 seaborn
 pyyaml
+scikit-learn
+thefuzz
 surprise
 nltk
 spacy

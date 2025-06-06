@@ -1,0 +1,21 @@
+data:
+    path: "C:\\Users\\Shruti.Bhosale\\source\\repos\\shrutiB-ai\\Product_recommendation_system\\Collaborative_Filtering\\data\\Ratings.csv"    
+recommendation:
+    top_n: 5
+output:
+    dir: "output"
+model:
+    types:
+        - svd
+        - knnbasic
+    params:
+        svd: 
+             n_factors: 100
+             n_epochs: 20
+             lr_all: 0.005
+             reg_all: 0.02
+        knnbasic:
+            k: 40
+            sim_options:
+                name: cosine
+                user_brand: true
