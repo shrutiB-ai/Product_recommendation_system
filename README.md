@@ -1,4 +1,4 @@
-# Book Recommendation System
+# Product Recommendation System
 
 This project implements a Book Recommendation System using multiple recommendation techniques to provide personalized book suggestions.
 
